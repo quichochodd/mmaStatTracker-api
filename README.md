@@ -1,12 +1,11 @@
 # mmaStatTracker-api
 
-## Suggested technology stack:
+## Technologies
 **Back-end Development:**
-- Node.js or Python (Django/Flask): For server-side logic and handling data requests.
-- RESTful API: Design an API to serve data to the front-end and handle user requests.
+- Django
 
 **Database:**
-- MongoDB, PostgreSQL, or MySQL: For storing UFC fight data and user information.
+- MySql
 
 **Machine Learning:**
 - Python: For implementing machine learning algorithms.
