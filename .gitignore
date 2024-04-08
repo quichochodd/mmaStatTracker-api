@@ -1,0 +1,36 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.pyc
+
+# Django generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Database
+*.sqlite3
+*.db
+*.sql
+
+# Static files and media uploads
+staticfiles/
+media/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Local configuration files
+local_settings.py
+
+# Libraries and Binaries
+lib/
+bin/
