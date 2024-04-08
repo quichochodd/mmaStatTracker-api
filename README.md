@@ -8,6 +8,9 @@
   - Activate virtual environment:
     - Mac: `source mma_stat_tracker/bin/activate`
     - Windows: `mma_stat_tracker\Scripts\activate`
+  - Start server: `python manage.py runserver`
+  - Install dependancies: `pip install -r requirements.txt`
+    - Create requirements.txt with list of dependancies: `pip freeze > requirements.txt`
   - Close enviroment: `deactivate`
 
 **Database:**
