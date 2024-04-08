@@ -1,8 +1,13 @@
-# mmaStatTracker-api
+# mma-stat-tracker-api
 
 ## Technologies
 **Back-end Development:**
 - Django
+  - Creating virtual environment:
+    `python3 -m venv mma_stat_tracker`
+  - Activate virtual environment:
+- Mac: `source mma_stat_tracker/bin/activate`
+- Windows: `mma_stat_tracker\Scripts\activate`
 
 **Database:**
 - MySql
