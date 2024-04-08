@@ -6,9 +6,9 @@
   - Creating virtual environment:
     `python3 -m venv mma_stat_tracker`
   - Activate virtual environment:
-- Mac: `source mma_stat_tracker/bin/activate`
-- Windows: `mma_stat_tracker\Scripts\activate`
-- Close enviroment: `deactivate`
+    - Mac: `source mma_stat_tracker/bin/activate`
+    - Windows: `mma_stat_tracker\Scripts\activate`
+  - Close enviroment: `deactivate`
 
 **Database:**
 - MySql
