@@ -1,4 +1,4 @@
-# mma-stat-tracker-api
+# mma_stat_tracker-api
 
 ## Technologies
 **Back-end Development:**
